@@ -26,9 +26,19 @@ These instructions will help you set up and run the code on your local machine.
 1. Execute the main script:  Driver Drowsiness Detection.py
 
 
-2. The script will use your webcam to detect drowsiness and yawning in real-time.
+2. The script will use your webcam to detect drowsiness and yawning in real time.
 
-## Model Architecture and Training
+### Results
+a. Detecting Drowsiness State of the Driver
+![Screenshot (291)](https://github.com/skv1627/Drowsiness-Detection-and-Alerting-system-using-OpenCV/assets/146156111/fd32f171-724c-48e5-b4fa-e6fb3b9da132)
+
+b. Detecting the Yawning State of the Driver
+![Screenshot (292)](https://github.com/skv1627/Drowsiness-Detection-and-Alerting-system-using-OpenCV/assets/146156111/2a32e4b3-f386-4683-98da-ed822f7e94fa)
+
+c. Detecting whether the Driver is actively looking at the road or not
+
+![Screenshot (293)](https://github.com/skv1627/Drowsiness-Detection-and-Alerting-system-using-OpenCV/assets/146156111/3ae02c90-7871-4d77-ad1e-fdd621694d42)
+
 
 ### Model Architecture
 
