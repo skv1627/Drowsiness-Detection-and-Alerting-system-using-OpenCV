@@ -30,14 +30,14 @@ These instructions will help you set up and run the code on your local machine.
 
 ### Results
 a. Detecting Drowsiness State of the Driver
-![Screenshot (291)](https://github.com/skv1627/Drowsiness-Detection-and-Alerting-system-using-OpenCV/assets/146156111/fd32f171-724c-48e5-b4fa-e6fb3b9da132)
-
-b. Detecting the Yawning State of the Driver
 ![Screenshot (292)](https://github.com/skv1627/Drowsiness-Detection-and-Alerting-system-using-OpenCV/assets/146156111/2a32e4b3-f386-4683-98da-ed822f7e94fa)
 
-c. Detecting whether the Driver is actively looking at the road or not
-
+b. Detecting the Yawning State of the Driver
 ![Screenshot (293)](https://github.com/skv1627/Drowsiness-Detection-and-Alerting-system-using-OpenCV/assets/146156111/3ae02c90-7871-4d77-ad1e-fdd621694d42)
+
+c. Detecting whether the Driver is actively looking at the road or not
+![Screenshot (294)](https://github.com/skv1627/Drowsiness-Detection-and-Alerting-system-using-OpenCV/assets/146156111/46ce86e7-6c41-4352-8e57-da5d68c76ee3)
+
 
 
 ### Model Architecture
