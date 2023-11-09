@@ -65,6 +65,9 @@ The code uses the dlib library's pre-trained facial landmark predictor ("shape_p
 - Kalyan Kumar Sukasi (https://github.com/kalyansukasi)
 - Archana Vootukuru ( https://github.com/archu1012)
 
+## References
+https://pyimagesearch.com/2017/05/08/drowsiness-detection-opencv/
+
    
    
   
